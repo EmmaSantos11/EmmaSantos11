@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ohamadikee98@gmail.com**
 
-- 📄 Know about my experiences [https://emmasantos11.github.io/my-cv/](https://emmasantos11.github.io/my-cv/)
+- 📄 Know about my experiences [https://emmasantos11.github.io/My-Site/](https://emmasantos11.github.io/My-Site/)
 
 - ⚡ Fun fact **I am not good in coding but trying my best**
 
