@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ohamadike Emmanuel Chidera</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">A passionate software developer from Nigeria living in Côte d'Ivoire</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmasantos11&label=Profile%20views&color=0e75b6&style=flat" alt="emmasantos11" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmmaSantos11](https://github.com/EmmaSantos11)
 
-- 💬 Ask me about **Anything, but will only answer the one I know about**
+- 💬 Ask me about **Anything, but will only answer the ones I know about**
 
 - 📫 How to reach me **ohamadikee98@gmail.com**
 
 - 📄 Know about my experiences [https://emmasantos11.github.io/my-cv/](https://emmasantos11.github.io/my-cv/)
 
-- ⚡ Fun fact **I am not good in coding but trying to be**
+- ⚡ Fun fact **I am not good in coding but trying my best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
